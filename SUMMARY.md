@@ -6,3 +6,7 @@
 
 * [Configuring the application](frontend/configuring-the-application.md)
 
+## Backend
+
+* [Setting up](backend/setting-up.md)
+
