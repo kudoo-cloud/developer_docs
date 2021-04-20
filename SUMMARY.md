@@ -5,6 +5,7 @@
 ## Frontend
 
 * [Configuring the application](frontend/configuring-the-application.md)
+* [Working with application state](frontend/working-with-application-state.md)
 
 ## Backend
 
