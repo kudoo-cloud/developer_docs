@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Overview](README.md)
+
+## Frontend
+
+* [Configuring the application](frontend/configuring-the-application.md)
 
