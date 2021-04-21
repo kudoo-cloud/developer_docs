@@ -9,5 +9,5 @@
 
 ## Backend
 
-* [Setting up](backend/setting-up.md)
+* [Adding a new Entity](backend/setting-up.md)
 
